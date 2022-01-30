@@ -1,0 +1,120 @@
+body{
+    text-align: center;
+    background-color: #E3FDFD;
+    margin: 0;
+    color: #71C9CE;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.header{
+    position: relative;
+    background-color:   #E3FDFD;
+    height: 60px;
+    width: 100%;
+    margin: 0;
+    padding: 10px 0 0 0 ;
+}
+
+.profile-pic{
+    width: 50px;
+    left: 20px;
+    position: absolute;
+    left : 50px;
+}
+.anchor{
+    position: absolute;
+    right: 20px;
+    padding: 10px 30px;
+}
+.top-nav{
+    display: inline;
+}
+li{
+    font-weight: 10;
+    display: inline;
+    position: relative;
+    padding : 20px;
+    left : 30%;
+    top : 15px;
+}
+a{
+    text-decoration: none;
+    color: #71C9CE;
+}
+a:hover{
+    color: black;
+}
+
+.about{
+    color: black;
+}
+.landing{
+    width: 100%;
+    background-color: #CBF1F5;
+}
+
+.land-img{
+    width: 25%;
+    padding-top: 50px;
+}
+
+h1{
+    font-family: 'Licorice', cursive;
+    color: #71C9CE;
+    font-size: 80px;
+    margin: 0;
+    padding-top: 50px;
+}
+p{
+    color: #71C9CE;
+}
+.land-text{
+    font-size: 20px;
+}
+.profile{
+    width: 150px;
+    padding-top: 50px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.skill{
+    text-align: left;
+    margin: 0 auto 0 auto;
+}
+.skill-p{
+    text-align: left;
+    margin: 0 auto 0 auto;
+    color: #549497;
+}
+.what{
+    font-size: 50px;
+}
+.web-image{
+    width: 150px;
+    float: left;
+    padding-right: 100px;
+}
+.teach{
+    width: 150px;
+    float: right;
+    padding-left: 100px;
+}
+h3{
+    font-size: 30px;
+}
+.help{
+    color: #549497;
+}
+.footer-link{
+    padding: 20px;
+}
+.bottom-container{
+    background-color: #CBF1F5;
+    margin-bottom: 0;
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+}
